@@ -1,2 +1,3 @@
 # Nap
-苹果手表小应用
+for apple watch use
+We help track and record nap data and update to apple health
